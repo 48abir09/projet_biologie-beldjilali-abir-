@@ -27,3 +27,4 @@ Les cellules commencent alors à se multiplier sans contrôle, ce qui peut provo
 conclusion
 La voie PI3K/AKT constitue l’un des principaux mécanismes de signalisation régulant la survie et la croissance cellulaires. Sa dérégulation entraîne des pathologies graves, et sa compréhension approfondie ouvre la voie à des thérapies ciblées
 prometteuses.
+
