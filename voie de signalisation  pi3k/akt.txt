@@ -28,6 +28,53 @@ un domaine intracellulaire avec une activité tyrosine kinase
 Lorsque le ligand se fixe au récepteur, celui-ci forme un dimère et subit une autophosphorylation sur les résidus tyrosine.
 Cette phosphorylation permet le recrutement de relais intracellulaires tels que PI3K, initiant ainsi une cascade de signalisation menant à l’activation de AKT et à la régulation de la survie et de la croissance cellulaire.
 
+activation d AKT:
+Après la conversion du PIP2 en PIP3 par la PI3K, un micro-domaine enrichi en PIP3 se forme sur la membrane interne, permettant le recrutement des protéines à domaine PH (AKT, PDK1, mTORC2).
+Ce regroupement crée une plateforme qui favorise la double phosphorylation d’AKT :
+
+Thr308 par PDK1
+
+Ser473 par mTORC2
+
+
+Ce qui conduit à son activation complète.
+
+AKT inhibe FOXO, qui contribue normalement à l’activation de gènes responsables de l’arrêt du cycle cellulaire et de l’induction de l’apoptose.
+
+AKT active MDM2, qui à son tour inhibe p53.
+Le p53 active les gènes pro-apoptotiques, inhibe les gènes anti-apoptotiques et bloque la prolifération cellulaire.
+
+AKT inhibe p21, une protéine qui cible les CDK et bloque la progression du cycle cellulaire.
+Le p21 est activé par p53 en réponse à des dommages à l’ADN, au stress cellulaire ou à des agents carcinogènes, afin d’empêcher la division d’une cellule endommagée.
+
+AKT inhibe BAD, qui active normalement l’apoptose de manière indirecte en neutralisant les protéines anti-apoptotiques BCL2 et BCL-XL.
+Après la levée de cette protection, BAX forme des pores dans la mitochondrie, permettant la libération du cytochrome c et l’activation des caspases, entraînant ainsi l’apoptose.
+
+AKT inhibe GSK3, ce qui favorise l’activation de CCND1 via β-caténine.
+La cycline D1 s’associe alors à CDK4/6 pour former un complexe qui phosphoryle Rb, un protéine qui empêche normalement le passage de la phase G1 à la phase S.
+
+AKT active IKK, entraînant l’inhibition de IκB et la libération de NF-κB.
+NF-κB pénètre ensuite dans le noyau et active des gènes impliqués dans l’inflammation, la survie cellulaire et la croissance.
+
+AKT inhibe ASK1, qui active normalement JNK en cas de stress cellulaire ou oxydatif.
+Lorsque les dommages sont sévères, la voie JNK peut conduire à l’apoptose.
+
+AKT inhibe WEE1, un inhibiteur des CDK, permettant ainsi la progression du cycle cellulaire.
+
+AKT inhibe TSC2, qui est normalement activé par AMPK en cas de diminution de l’ATP et qui inhibe Rheb.
+
+Rheb active mTORC1, qui à son tour phosphoryle p70S6K.
+p70S6K phosphoryle RPS6, une protéine du ribosome, ce qui augmente la traduction des protéines.
+
+mTORC1 inhibe 4EBP1, entraînant la libération de eIF4E et la formation du complexe eIF4F.
+Ce complexe est essentiel pour le démarrage de la traduction protéique.
+
+Lorsque mTORC1 est activé :
+→ la synthèse protéique augmente
+→ y compris la protéine HIF-1α
+→ qui stimule la production de VEGF
+→ ce qui entraîne l’angiogenèse.
+
 
  PATHOLOGIES
 Une activation excessive ou continue de la voie PI3K/AKT, ou encore un dysfonctionnement du gène PTEN, entraîne un déséquilibre cellulaire.
@@ -41,3 +88,5 @@ des troubles métaboliques tels que le diabète
 CONCLUSION
 La voie PI3K/AKT constitue l’un des principaux mécanismes de signalisation régulant la survie et la croissance cellulaires.
 Sa dérégulation provoque des pathologies graves, et sa compréhension approfondie ouvre la voie à des thérapies ciblées prometteuses.
+
+
