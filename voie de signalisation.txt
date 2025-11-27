@@ -1,0 +1,29 @@
+
+                                                   la voie de signalisation pi3k/akt
+
+INTRODUCTION
+
+La voi de pi3k/ Akt est l’une des plus importantes voies de régulation cellulaire dans les
+organismes eucaryotes.
+Elle joue un rôle central dans la survie, la croissance, la prolifération, la différenciation et le métabolisme des cellules. L’enzyme clé de cette voie est la phosphoinositide 3-kinase (PI3K), qui se trouve dans le cytoplasme sous une forme inactive et est composée de deux sous-unités : une régulatrice (p85) et une catalytique (p110) . Et l’AKT, également appelé Protein Kinase B, se trouve lui aussi dans le cytoplasme sous une forme inactive.
+Il possède deux sites importants : Thr308 , Ser 473
+
+
+
+recepteur et le relais intracellulaire
+La voie de signalisation PI3K/AKT commence par l’activation du récepteur tyrosine kinase, une protéine membranaire présente à la surface de la cellule, possédant un domaine externe pour
+la liaison du ligand et un domaine interne avec une activité
+tyrosine kinase. Dès que le ligand se lie, le récepteur forme une dimère et subit une autophosphorylation sur le domaine
+tyrosine. Cette phosphorylation permet alors le recrutement des relais intracellulaires comme PI3K, qui initie la cascade de signalisation jusqu’à l’activation de AKT et la régulation de la survie et de la croissance cellulaire.
+    
+
+
+patholoofties
+Une activation excessive et un fonctionnement
+continu de la voie PI3K/Akt , ou un dysfonctionnement du gène PTEN, entraînent un déséquilibre cellulaire.
+Les cellules commencent alors à se multiplier sans contrôle, ce qui peut provoquer soit un cancer, soit des troubles métaboliques comme le diabète.
+
+
+conclusion
+La voie PI3K/AKT constitue l’un des principaux mécanismes de signalisation régulant la survie et la croissance cellulaires. Sa dérégulation entraîne des pathologies graves, et sa compréhension approfondie ouvre la voie à des thérapies ciblées
+prometteuses.
